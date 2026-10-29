@@ -2,7 +2,7 @@
 
 <h1>Cisoko</h1>
 
-<a href="https://cisoko.net"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=D8A83E&center=true&vCenter=true&width=560&lines=Open+FiveM+foundations;One+bridge+for+ESX%2C+QBCore+and+Qbox;SQLite+that+speaks+oxmysql;Optimized+down+to+the+core" alt="Open FiveM foundations" /></a>
+<a href="https://cisoko.net"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=D8A83E&center=true&vCenter=true&width=560&lines=Open+FiveM+foundations;One+bridge+for+ESX%2C+QBCore+and+Qbox;SQLite+inside+FXServer;Optimized+down+to+the+core" alt="Open FiveM foundations" /></a>
 
 <p>
 <a href="https://cisoko.net"><img src="https://img.shields.io/badge/Store-cisoko.net-D8A83E?style=for-the-badge&labelColor=090909" alt="Store" /></a>
